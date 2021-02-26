@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Library\\": "app/lib",
+      "Sourcecode\\": "app/src"
+    }
+  }
+}
